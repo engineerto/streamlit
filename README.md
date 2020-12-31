@@ -1,2 +1,1 @@
-# streamlit
-Streamlit examples
+# Colab and Streamlit Examples
